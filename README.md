@@ -10,10 +10,11 @@
 &nbsp;&nbsp;&nbsp;🤝 Open to Open Source Contributions\ 
 &nbsp;&nbsp;&nbsp;💬 Fluent in Code, Sarcasm & Stack Overflow
 
+<br>
 
 <p align ="center">
 
-  <a href="mailto:vinaykrv1999@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:vinaykrv1999@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
   <a href="https://www.linkedin.com/in/vinaykrv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
