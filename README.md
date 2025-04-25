@@ -7,14 +7,15 @@
 &nbsp;&nbsp;&nbsp;🎓 Final Year B.Tech CSE Student  \
 &nbsp;&nbsp;&nbsp;💻 Aspiring Software Developer | Problem Solver\
 &nbsp;&nbsp;&nbsp;🔧 Web Dev • DSA • Debugging Life \
-&nbsp;&nbsp;&nbsp;🤝 Open to Open Source Contributions\
-&nbsp;&nbsp;&nbsp;💬 Fluent in Code, Sarcasm & Stack Overflow\
+&nbsp;&nbsp;&nbsp;🤝 Open to Open Source Contributions\ 
+&nbsp;&nbsp;&nbsp;💬 Fluent in Code, Sarcasm & Stack Overflow
 
 
-<p align="center">
-  <a href="mailto:vinaykrv1999@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align ="center">
+
+  <a href="mailto:vinaykrv1999@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/vinaykrv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vinaykrv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
 </p>
 
@@ -41,9 +42,10 @@
 ![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)&nbsp;
 
+<hr/>
 
-
-
+> _“In order to understand recursion, one must first understand recursion.”_  
+– Probably a CS Student Having a Breakdown 😅
 
 
 
